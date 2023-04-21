@@ -1,0 +1,2 @@
+# smtcdn
+smart cdn choose
